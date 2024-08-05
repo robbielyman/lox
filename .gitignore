@@ -1,0 +1,6 @@
+lox-rust/target
+lox-zig/.zig-cache
+lox-zig/zig-out
+*.*~
+#*.*#
+*.*#

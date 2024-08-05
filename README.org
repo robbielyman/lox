@@ -1,0 +1,5 @@
+* lox
+
+Implementations of the "Lox" programming language from /Crafting Interpreters/ in Rust and Zig.
+
+Run the interpreters by invoking =cargo run= or =zig build run= in either the "lox-rust" or "lox-zig" directories, respectively.
